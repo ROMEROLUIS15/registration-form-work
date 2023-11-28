@@ -81,7 +81,7 @@ body {
 
 @media screen and (max-width: 480px){
     .form-register{
-        margin: 15px auto;
+        margin: 25px auto;
         width: 320PX;
 
     }
