@@ -79,10 +79,14 @@ body {
     color: black;
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 460px){
     .form-register{
         margin: 25px auto;
-        width: 320PX;
-
+        width: 300PX;
+    }
+    .form-register li{
+        min-height: 70PX;
+        line-height: 30px;
+        margin-top: 10px;
     }
 }
