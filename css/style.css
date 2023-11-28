@@ -79,6 +79,10 @@ body {
     color: black;
 }
 
-@media (min-width: 368px) {
- 
+@media screen and (max-width: 480px){
+    .form-register{
+        margin: 15px auto;
+        width: 320PX;
+
+    }
 }
